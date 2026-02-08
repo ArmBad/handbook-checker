@@ -1,0 +1,330 @@
+"""
+California Employment Law Compliance Checklist (2026)
+Comprehensive list of required handbook policies and provisions.
+"""
+
+def get_checklist():
+    """
+    Returns the comprehensive CA employment law compliance checklist.
+    Updated for 2026 with all current requirements.
+    """
+    
+    checklist = """
+# CALIFORNIA EMPLOYMENT LAW COMPLIANCE CHECKLIST (2026)
+
+## CORE EMPLOYMENT POLICIES
+
+1. **At-Will Employment Disclaimer** (Labor Code §2922)
+   - Clear statement that employment is at-will
+   - Can be terminated by either party at any time, with or without cause/notice
+   - Only authorized person can modify (typically CEO/President in writing)
+
+2. **Equal Employment Opportunity Policy** (Gov. Code §12940, FEHA)
+   - Prohibits discrimination based on all protected classes
+   - Must include: race, color, national origin, ancestry, religion, sex, gender, gender identity, gender expression, sexual orientation, age (40+), disability, medical condition, genetic information, marital status, military/veteran status, reproductive health decision-making
+   - Statement of commitment to EEO
+
+3. **Anti-Harassment Policy** (Gov. Code §12940, §12950)
+   - Definitions of harassment (sexual, gender-based, and all protected classes)
+   - Examples of prohibited conduct
+   - Statement that harassment is illegal and will not be tolerated
+   - Covers harassment by employees, managers, customers, vendors
+
+4. **Harassment Complaint Procedure** (Gov. Code §12950)
+   - Multiple reporting channels (supervisor, HR, executives, hotline)
+   - Confidentiality provisions
+   - Investigation process
+   - Non-retaliation statement
+   - Contact info for DFEH/CRD and EEOC
+
+5. **Harassment Prevention Training Requirement** (Gov. Code §12950.1)
+   - Employers with 5+ employees must provide training
+   - 1 hour for all employees, 2 hours for supervisors
+   - Every 2 years
+   - Within 6 months of hire/promotion for supervisors
+   - Within 30 days/100 hours for temporary/seasonal workers
+
+## WAGE & HOUR REQUIREMENTS
+
+6. **Minimum Wage Notice** (Labor Code §§1182.12, 1197.5)
+   - Current CA minimum wage: $16.90/hour (effective Jan 1, 2026)
+   - Exempt employee minimum salary: $70,304/year (2x minimum wage x 2080 hours)
+   - Note any applicable city/county higher minimum wages
+   - Industry-specific wages (fast food, healthcare if applicable)
+
+7. **Wage Theft Protection Act Notice** (Labor Code §2810.5) - NEW
+   - Required written notice to new hires at time of hire
+   - Must include: pay rate, regular payday, employer name/address, paid sick leave info
+   - Must notify employees within 7 days of any changes
+   - Use Labor Commissioner form or equivalent
+
+8. **Wage Statement Requirements** (Labor Code §226)
+   - Itemized wage statement (pay stub) with each paycheck
+   - Must include 11 items: dates of pay period, hours worked, rates of pay, gross/net wages, deductions, employer name/address, etc.
+   - Must show available paid sick leave balance (or "unlimited")
+   - Employees can request copies; employer must provide within 21 days
+
+9. **Final Pay Timing Requirements** (Labor Code §§201-202) - NEW
+   - Involuntary termination: All wages due immediately at termination
+   - Voluntary resignation with 72+ hours notice: Pay on last day
+   - Voluntary resignation without notice: Pay within 72 hours
+   - Waiting time penalties up to 30 days wages for late payment
+
+10. **Payroll Deductions Policy** (Labor Code §§221, 224, 400-410)
+    - Prohibited deductions: uniforms, equipment, cash shortages (unless theft proven), business losses from simple negligence
+    - Allowed deductions: taxes, court-ordered, employee-authorized benefits
+    - Penalties: $200 + 25% of amount withheld per violation
+
+11. **Meal Break Policy** (Labor Code §512, §226.7)
+    - 30-minute unpaid meal break before end of 5th hour
+    - Waiver allowed if workday ≤6 hours (must be mutual written agreement)
+    - Second 30-minute meal break before end of 10th hour (can waive if ≤12 hours and first meal taken)
+    - Must be duty-free (employee relieved of all duties)
+    - Premium pay: 1 hour at regular rate for each violation
+
+12. **Rest Break Policy** (Labor Code §226.7)
+    - 10-minute paid rest break per 4 hours worked (or major fraction thereof)
+    - Should be in middle of work period if practicable
+    - Cannot be combined with meal break
+    - Premium pay: 1 hour at regular rate for each violation
+
+13. **Overtime Policy** (Labor Code §510)
+    - Time-and-a-half: Over 8 hours/day OR over 40 hours/week
+    - Double-time: Over 12 hours/day OR 8+ hours on 7th consecutive workday
+    - 7th day overtime: Time-and-a-half for first 8 hours, double-time thereafter
+    - All overtime must be authorized/approved
+
+14. **Alternative Workweek Schedule** (Labor Code §511) - NEW (if applicable)
+    - Allows schedules over 8 hours/day without daily overtime
+    - Requires secret ballot election with 2/3 approval
+    - Strict compliance procedures
+    - Must be disclosed in handbook if used
+
+15. **Independent Contractor Classification** (AB 5 - "ABC Test")
+    - Policy on proper worker classification
+    - ABC test factors for determining independent contractor status
+    - Prohibition on misclassification
+
+## LEAVE POLICIES
+
+16. **Paid Sick Leave** (Labor Code §246)
+    - Accrual: 1 hour per 30 hours worked (or front-load 24-40 hours/year)
+    - Minimum carryover: Unused hours carry over (can cap at 48 hours/6 days)
+    - Usage: Minimum 24 hours/year available
+    - Covered reasons: Employee/family member illness, preventive care, safe time (domestic violence, sexual assault, stalking)
+    - Notice and documentation requirements
+    - Display of available balance on pay stub
+
+17. **California Family Rights Act (CFRA)** (Gov. Code §12945.2)
+    - Employers with 5+ employees (changed from 50 in 2021)
+    - 12 weeks of protected leave in 12-month period
+    - Eligibility: 12 months employment, 1,250 hours in previous 12 months
+    - Covered reasons: Bonding with new child, serious health condition (self/family), military exigency, care for military servicemember
+    - Expanded family member definitions (includes designated persons, adult children, grandparents, grandchildren, siblings)
+    - Job restoration rights
+
+18. **Pregnancy Disability Leave (PDL)** (Gov. Code §12945)
+    - Employers with 5+ employees
+    - Up to 4 months leave for pregnancy-related disability
+    - No minimum service requirement
+    - Reasonable accommodation for pregnancy-related conditions
+    - Transfer rights for pregnant employees
+    - Can run concurrently with or in addition to CFRA/FMLA
+
+19. **Bereavement Leave** (Labor Code §12945.7) - NEW
+    - Employers with 5+ employees
+    - Up to 5 days of unpaid, job-protected leave
+    - Death of covered family member or reproductive loss event
+    - Eligibility: 30 days of employment
+    - Covered family members: spouse, child, parent, sibling, grandparent, grandchild, domestic partner
+
+20. **Crime Victim Leave** (Labor Code §230, §230.1) - AB 406 Enhanced 2026
+    - Time off for employees who are crime victims or whose family member is a crime victim
+    - Covers: Court appearances, victim services, counseling, etc.
+    - Protected from retaliation
+    - Notice requirements (Crime Victims Notice from CRD - must post and distribute)
+
+21. **Jury Duty & Witness Leave** (Labor Code §230)
+    - Protected time off for jury duty and appearing as witness
+    - No required pay (but cannot penalize employee)
+    - Cannot retaliate
+
+22. **Military Leave** (Military and Veterans Code §§394-395.10)
+    - Protected leave for military service and training
+    - Reinstatement rights
+    - Covers spouse leave to be with deployed spouse on leave
+
+23. **Voting Leave** (Elections Code §14000)
+    - Up to 2 hours paid time off to vote if insufficient time outside work hours
+    - Must request in advance
+
+24. **School Activities Leave** (Labor Code §230.8)
+    - Up to 40 hours/year for parents to participate in school/child care activities
+    - Applies to employers with 25+ employees
+    - Unpaid (can use vacation/PTO)
+
+25. **Organ/Bone Marrow Donor Leave** (Labor Code §1508-1513)
+    - Up to 30 business days/year for organ donation
+    - Up to 5 business days/year for bone marrow donation
+    - Paid leave (with verification)
+
+## WORKPLACE RIGHTS & PROTECTIONS
+
+26. **Personnel Records Access** (Labor Code §1198.5)
+    - Current/former employees can inspect personnel records
+    - Employer must provide access within 30 days of request
+    - Can inspect up to once/year while employed
+    - Can have representative inspect records
+    - Penalties: $750 per violation
+
+27. **Expense Reimbursement** (Labor Code §2802)
+    - Reimburse necessary business expenses
+    - Covers: Mileage, cell phone, tools, equipment, supplies
+    - Must be paid on regular payday
+
+28. **PAGA Notice** (Labor Code §2699.3)
+    - Private Attorneys General Act
+    - Inform employees of right to file PAGA claims for Labor Code violations
+    - Notice of employee's right to represent State in labor law enforcement
+
+29. **Lactation Accommodation** (Labor Code §1031)
+    - Reasonable break time to express breast milk
+    - Private space (not bathroom) close to work area
+    - Access to refrigerator or personal cooler
+    - Applies to all employers
+    - 2024 amendments: Enhanced privacy/safety requirements, lactation room standards
+
+30. **Whistleblower Protection** (Labor Code §1102.5)
+    - Employees can report legal violations without retaliation
+    - Covers reporting to government agencies, internal complaints
+    - Strong anti-retaliation protections
+    - Encouragement to report violations
+
+31. **Anti-Retaliation Policy** (Labor Code §98.6, §1102.5)
+    - Prohibition on retaliation for exercising legal rights
+    - Covers: Wage complaints, harassment complaints, leave requests, whistleblowing, union activity
+    - Reporting mechanism for retaliation complaints
+
+32. **Workplace Violence Prevention Plan** (Labor Code §6401.9) - NEW 2024
+    - Written plan required for all employers (effective July 1, 2024)
+    - Hazard identification and correction procedures
+    - Employee training (annual)
+    - Violent incident log
+    - Employee participation in development/implementation
+
+## 2025-2026 NEW REQUIREMENTS
+
+33. **AI/Automated Decision Systems Policy** (SB 1001 - NEW 2025)
+    - Disclosure of use of AI in employment decisions (hiring, promotions, performance)
+    - Employee rights regarding automated systems
+    - Non-discrimination requirements
+    - Record retention: 4 years for ADS-related records
+
+34. **Emergency Contact Designation** (SB 294 - NEW 2025)
+    - Allow employees to designate emergency contacts
+    - Employer must notify emergency contact if employee arrested/detained at work
+    - Confidentiality protections
+
+35. **Workers' Rights Notice** (SB 294 - NEW 2025)
+    - Comprehensive notice of employee rights under CA law
+    - Must distribute annually and to new hires
+
+36. **Cannabis-Use Protections** (AB 2188 - Effective 2024) - NEW
+    - Cannot discriminate against employees for off-duty cannabis use
+    - Restrictions on cannabis drug testing (cannot use tests detecting non-psychoactive metabolites)
+    - Exceptions: Federal contractors, positions requiring federal background checks, building/construction trades
+
+## HIRING & EMPLOYMENT PRACTICES
+
+37. **Criminal History in Hiring** ("Ban the Box" - Gov. Code §12952)
+    - Cannot ask about criminal history before conditional job offer
+    - After conditional offer, must follow specific procedures before denying based on criminal history
+    - Individualized assessment required
+    - Notice and opportunity to respond
+
+38. **Salary History Ban** (Labor Code §432.3)
+    - Cannot ask applicants about salary history
+    - Cannot rely on salary history in hiring/pay decisions
+    - Must provide pay scale upon request
+
+39. **Pay Scale Disclosure in Job Postings** (Labor Code §432.3) - Enhanced 2023
+    - Employers with 15+ employees must include pay scale in all job postings
+    - "Pay scale" = salary or hourly wage range employer reasonably expects to pay
+
+40. **Social Media Privacy** (Labor Code §980)
+    - Cannot require employees/applicants to disclose personal social media usernames/passwords
+    - Cannot require access to personal social media accounts
+    - Cannot retaliate for refusing to provide access
+
+41. **Immigration Rights** (AB 450 - Immigrant Worker Protection Act)
+    - Cannot provide voluntary consent for immigration enforcement to access non-public areas without judicial warrant
+    - Must post notice within 72 hours of receiving Notice of Inspection from immigration agency
+    - Must distribute "Know Your Rights" notice annually and to new hires
+    - Already covered in Emergency Contact above: Allow employees to designate emergency contact for arrest/detention
+
+42. **Non-Compete Agreement Ban** (Business & Professions Code §16600)
+    - Non-compete agreements void in California
+    - Handbook should clarify that non-competes will not be enforced
+    - May use: Non-solicitation, confidentiality, intellectual property agreements (if reasonable)
+
+## WORKPLACE SAFETY & COMPLIANCE
+
+43. **Injury and Illness Prevention Program (IIPP)** (Labor Code §6401.7)
+    - Written workplace safety program required
+    - Hazard identification and correction
+    - Training and communication
+    - Record keeping
+
+44. **Workers' Compensation Notice** (Labor Code §3550-3553)
+    - Notice of workers' compensation coverage
+    - How to report injuries
+    - Contact information for claims
+
+45. **California WARN Act** (Labor Code §§1400-1408)
+    - Mass layoff/plant closure notification
+    - Broader than federal WARN Act
+    - 60-day advance notice to employees, EDD, local workforce agencies
+    - Applies to employers with 75+ employees
+
+## POSTING & NOTICE REQUIREMENTS
+
+46. **Required Workplace Postings**
+    - Minimum wage poster
+    - Payday notice
+    - Safety and health protection poster
+    - Emergency phone numbers
+    - Whistleblower protections
+    - Workers' compensation notice
+    - Discrimination/harassment notices (DFEH)
+    - Pregnancy disability leave notice
+    - Family care and medical leave notice (CFRA/FMLA)
+    - Paid sick leave notice
+    - Human trafficking notice (certain businesses)
+    - Crime Victims Notice (CRD)
+    - Wage theft protection notice (for all new hires)
+
+---
+
+## SUMMARY
+Total Requirements: 46 major policy areas
+
+Key 2025-2026 Updates:
+- Minimum wage: $16.90/hour (Jan 1, 2026)
+- Exempt salary threshold: $70,304/year
+- AI/Automated Decision Systems disclosure
+- Emergency contact designation
+- Workers' rights notice
+- Bereavement leave (5+ employees)
+- Cannabis-use protections
+- Workplace Violence Prevention Plan
+- Pay scale disclosure in job postings (15+ employees)
+- Enhanced crime victims protections
+"""
+    
+    return checklist
+
+# Test function
+if __name__ == "__main__":
+    checklist = get_checklist()
+    print(checklist)
+    print(f"\n✅ Checklist loaded: {len(checklist)} characters")

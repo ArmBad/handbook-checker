@@ -1,0 +1,199 @@
+# California Employment Law Compliance Analysis
+## GreenWaste Employee Handbook (Effective January 1, 2025)
+
+---
+
+## COMPLIANCE CHECKLIST ANALYSIS
+
+### 1. At-Will Employment Disclaimer (Labor Code §2922)
+- **Status**: Present
+- **Pages**: Pages 7-8
+- **Assessment**: Compliant. Clear statement that employment is at-will, can be terminated by either party with or without cause/notice. Properly reserves authority to CEO only for employment agreements.
+- **Risk Level**: Low
+- **Recommendation**: None needed
+- **Legal Citation**: Labor Code §2922
+
+### 2. Equal Employment Opportunity Policy (Gov. Code §12940)
+- **Status**: Present
+- **Pages**: Pages 12-13
+- **Assessment**: Compliant. Comprehensive list of protected classes including newer additions (reproductive health decision making, gender identity, hair texture/protective hairstyles). Covers all required categories.
+- **Risk Level**: Low
+- **Recommendation**: None needed
+- **Legal Citation**: Gov. Code §12940, FEHA
+
+### 3. Anti-Harassment Policy (Gov. Code §12940, FEHA)
+- **Status**: Present
+- **Pages**: Pages 12-15
+- **Assessment**: Compliant. Detailed policy covering sexual harassment and harassment based on protected characteristics. Includes examples of prohibited conduct and covers all persons in workplace.
+- **Risk Level**: Low
+- **Recommendation**: None needed
+- **Legal Citation**: Gov. Code §12940, FEHA
+
+### 4. Harassment Complaint Procedure (Gov. Code §12950)
+- **Status**: Present
+- **Pages**: Pages 15-16
+- **Assessment**: Compliant. Multiple reporting channels identified (supervisor, HR, CEO, General Counsel, ethics hotline). Investigation procedures outlined with confidentiality provisions.
+- **Risk Level**: Low
+- **Recommendation**: None needed
+- **Legal Citation**: Gov. Code §12950
+
+### 5. Meal Break Policy (Labor Code §512)
+- **Status**: Present
+- **Pages**: Pages 24-25
+- **Assessment**: Compliant. Detailed meal period policy covering 30-minute unpaid breaks, timing requirements (by 5th hour), waiver provisions, and second meal periods for shifts over 10 hours.
+- **Risk Level**: Low
+- **Recommendation**: None needed
+- **Legal Citation**: Labor Code §512
+
+### 6. Rest Break Policy (Labor Code §226.7)
+- **Status**: Present
+- **Pages**: Page 24
+- **Assessment**: Compliant. 10-minute paid rest breaks for every 4 hours worked, properly scheduled in middle of work periods.
+- **Risk Level**: Low
+- **Recommendation**: None needed
+- **Legal Citation**: Labor Code §226.7
+
+### 7. Overtime Policy (Labor Code §510)
+- **Status**: Present
+- **Pages**: Pages 27-28
+- **Assessment**: Compliant. Covers time-and-a-half for over 8 hours/day or 40 hours/week, double time for over 12 hours/day, and 7th consecutive day provisions.
+- **Risk Level**: Low
+- **Recommendation**: None needed
+- **Legal Citation**: Labor Code §510
+
+### 8. Paid Sick Leave (Labor Code §246)
+- **Status**: Partially Present
+- **Pages**: Page 56
+- **Assessment**: References separate Paid Sick Time Policy in Appendix but full policy not included in handbook text provided. Cannot verify full compliance.
+- **Risk Level**: Medium
+- **Recommendation**: Include complete paid sick leave policy in main handbook or ensure separate policy is compliant and properly referenced
+- **Legal Citation**: Labor Code §246
+
+### 9. California Family Rights Act (CFRA) Leave (Gov. Code §12945.2)
+- **Status**: Present
+- **Pages**: Pages 64-69
+- **Assessment**: Compliant. Comprehensive CFRA policy covering eligibility, qualifying reasons, concurrent FMLA running, benefits continuation, and reinstatement rights.
+- **Risk Level**: Low
+- **Recommendation**: None needed
+- **Legal Citation**: Gov. Code §12945.2
+
+### 10. Pregnancy Disability Leave (Gov. Code §12945)
+- **Status**: Present
+- **Pages**: Pages 72-74
+- **Assessment**: Compliant. Detailed PDL policy covering up to 4 months leave, reasonable accommodations, transfer provisions, and benefit continuation.
+- **Risk Level**: Low
+- **Recommendation**: None needed
+- **Legal Citation**: Gov. Code §12945
+
+### 11. Wage Statement Requirements (Labor Code §226)
+- **Status**: Partially Present
+- **Pages**: Page 26
+- **Assessment**: References payroll statements and deductions but doesn't specifically outline all required wage statement information.
+- **Risk Level**: Medium
+- **Recommendation**: Add specific language about wage statement contents and employee rights regarding wage statements
+- **Legal Citation**: Labor Code §226
+
+### 12. Personnel Records Access (Labor Code §1198.5)
+- **Status**: Present
+- **Pages**: Page 19
+- **Assessment**: Compliant. Covers employee right to inspect personnel records, representative designation, and reasonable cost for copies.
+- **Risk Level**: Low
+- **Recommendation**: None needed
+- **Legal Citation**: Labor Code §1198.5
+
+### 13. Expense Reimbursement (Labor Code §2802)
+- **Status**: Present
+- **Pages**: Pages 30-31
+- **Assessment**: Compliant. Policy covers reimbursement for necessary business expenses, mileage at IRS rate, and cell phone stipends.
+- **Risk Level**: Low
+- **Recommendation**: None needed
+- **Legal Citation**: Labor Code §2802
+
+### 14. PAGA Notice (Labor Code §2699)
+- **Status**: Missing
+- **Pages**: Not found
+- **Assessment**: No specific notice about Private Attorneys General Act (PAGA) rights.
+- **Risk Level**: High
+- **Recommendation**: Add PAGA notice informing employees of their right to bring PAGA claims for Labor Code violations
+- **Legal Citation**: Labor Code §2699
+
+### 15. Lactation Accommodation (Labor Code §1031)
+- **Status**: Present
+- **Pages**: Pages 39-40
+- **Assessment**: Compliant. Comprehensive lactation policy covering break time, private space requirements, and anti-retaliation provisions.
+- **Risk Level**: Low
+- **Recommendation**: None needed
+- **Legal Citation**: Labor Code §1031
+
+### 16. Whistleblower Protection (Labor Code §1102.5)
+- **Status**: Present
+- **Pages**: Pages 17-18
+- **Assessment**: Compliant. Covers protection for reporting violations of law, good faith requirement, and anti-retaliation provisions.
+- **Risk Level**: Low
+- **Recommendation**: None needed
+- **Legal Citation**: Labor Code §1102.5
+
+### 17. Anti-Retaliation Policy (Labor Code §98.6)
+- **Status**: Present
+- **Pages**: Pages 14-15, 17-18
+- **Assessment**: Compliant. Multiple references to anti-retaliation protections throughout various policies.
+- **Risk Level**: Low
+- **Recommendation**: None needed
+- **Legal Citation**: Labor Code §98.6
+
+### 18. AI/Automated Decision Systems Policy (NEW 2026)
+- **Status**: Missing
+- **Pages**: Not found
+- **Assessment**: No policy addressing AI/automated decision-making systems in employment (SB 1001 effective 2026).
+- **Risk Level**: High
+- **Recommendation**: Add policy addressing AI transparency, employee rights regarding automated hiring/management decisions
+- **Legal Citation**: SB 1001 (effective 2026)
+
+### 19. Emergency Contact Designation (SB 294 - NEW 2026)
+- **Status**: Missing
+- **Pages**: Not found
+- **Assessment**: No policy allowing employees to designate emergency contacts for workplace emergencies.
+- **Risk Level**: High
+- **Recommendation**: Add policy allowing employees to designate emergency contacts with confidentiality protections
+- **Legal Citation**: SB 294 (effective 2026)
+
+### 20. Workers' Rights Notice (SB 294 - NEW 2026)
+- **Status**: Missing
+- **Pages**: Not found
+- **Assessment**: No enhanced workers' rights notice as required by SB 294.
+- **Risk Level**: High
+- **Recommendation**: Add comprehensive workers' rights notice covering reporting procedures and protections
+- **Legal Citation**: SB 294 (effective 2026)
+
+---
+
+## SUMMARY OF CRITICAL ISSUES (High Risk Items)
+
+1. **PAGA Notice Missing**: No notice of employees' rights under the Private Attorneys General Act
+2. **AI/Automated Decision Systems Policy Missing**: New 2026 requirement for AI transparency in employment decisions
+3. **Emergency Contact Designation Missing**: New 2026 requirement allowing emergency contact designation
+4. **Workers' Rights Notice Missing**: Enhanced notice requirements under SB 294
+
+---
+
+## COMPLIANCE SUMMARY
+
+- **Compliant Items**: 14
+- **Partially Compliant Items**: 2 (Medium Risk)
+- **Non-Compliant Items**: 4 (High Risk)
+- **Total Items Reviewed**: 20
+
+**Compliant**: 14/20 (70%)
+**Non-Compliant**: 6/20 (30%)
+
+---
+
+## OVERALL COMPLIANCE GRADE: C+
+
+**Rationale**: The handbook demonstrates good compliance with established California employment law requirements, particularly in core areas like harassment prevention, family leave, and wage/hour policies. However, it lacks several critical new requirements effective in 2025-2026, creating significant compliance gaps. The missing PAGA notice and new 2026 requirements pose substantial legal risks.
+
+**Priority Actions**:
+1. Immediately add PAGA notice
+2. Implement 2026 compliance requirements (AI policy, emergency contacts, enhanced workers' rights notice)
+3. Complete paid sick leave policy review
+4. Enhance wage statement disclosures
